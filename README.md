@@ -1,2 +1,2 @@
 # Certificates
-The certificates posted here are accredited by Coursera for completing courses in Data Science and Artificial Intelligence.
+The certificates posted here are week-long courses provided by Coursera in the fields of Data Science, Machine Learning, and Artificial Intelligence.
